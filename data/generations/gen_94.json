@@ -1,0 +1,1127 @@
+{
+  "generation": 94,
+  "population_size": 50,
+  "avg_fitness": 0.9520,
+  "max_fitness": 0.9580,
+  "min_fitness": 0.9340,
+  "avg_successful_episodes": 476.0200,
+  "creatures": [
+    {
+      "id": 4108,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3290,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.7058,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4224,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3081,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1516,
+        "discount_factor": 0.9704,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.6687
+      }
+    },
+    {
+      "id": 4220,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3459,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.9744,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4159,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8369,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0778,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.0007
+      }
+    },
+    {
+      "id": 4232,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9580,
+      "avg_reward": 108.1342,
+      "successful_episodes": 479,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0817,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.0007
+      }
+    },
+    {
+      "id": 4235,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.6869,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.2450,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.2602
+      }
+    },
+    {
+      "id": 4236,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8108,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0828,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.4623
+      }
+    },
+    {
+      "id": 4237,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6260,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1166,
+        "discount_factor": 0.8078,
+        "epsilon_decay": 101.1006,
+        "wrong_way_penalty": -2.4578
+      }
+    },
+    {
+      "id": 4238,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.5564,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1560,
+        "discount_factor": 0.9704,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.5194
+      }
+    },
+    {
+      "id": 4239,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1592,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0618,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.6493
+      }
+    },
+    {
+      "id": 4240,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6366,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1068,
+        "discount_factor": 0.8092,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.3618
+      }
+    },
+    {
+      "id": 4241,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9440,
+      "avg_reward": 106.4124,
+      "successful_episodes": 472,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0965,
+        "discount_factor": 0.7058,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4242,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9340,
+      "avg_reward": 105.1942,
+      "successful_episodes": 467,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1159,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 128.6631,
+        "wrong_way_penalty": -1.3606
+      }
+    },
+    {
+      "id": 4243,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9440,
+      "avg_reward": 106.2925,
+      "successful_episodes": 472,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1809,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 124.6766,
+        "wrong_way_penalty": -4.1665
+      }
+    },
+    {
+      "id": 4244,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8007,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0828,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4245,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.2441,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0660,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4246,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.2027,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.7058,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4247,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1712,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0289,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4248,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3762,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.7058,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.4695
+      }
+    },
+    {
+      "id": 4249,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6990,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1514,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.5194
+      }
+    },
+    {
+      "id": 4250,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.0871,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.2450,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 112.3647,
+        "wrong_way_penalty": -2.5177
+      }
+    },
+    {
+      "id": 4251,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9580,
+      "avg_reward": 108.0599,
+      "successful_episodes": 479,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.4695
+      }
+    },
+    {
+      "id": 4252,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1624,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0828,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4253,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9580,
+      "avg_reward": 107.9795,
+      "successful_episodes": 479,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0294,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4254,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1473,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0289,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4255,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1830,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1121,
+        "discount_factor": 0.8092,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.3110
+      }
+    },
+    {
+      "id": 4256,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.4406,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0731,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4257,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1511,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0445,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.0007
+      }
+    },
+    {
+      "id": 4258,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6811,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1327,
+        "discount_factor": 0.9704,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.8499
+      }
+    },
+    {
+      "id": 4259,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.5552,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0641,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4260,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.4212,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0478,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.2763
+      }
+    },
+    {
+      "id": 4261,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9480,
+      "avg_reward": 106.8724,
+      "successful_episodes": 474,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1316,
+        "discount_factor": 0.9623,
+        "epsilon_decay": 105.1388,
+        "wrong_way_penalty": -1.8498
+      }
+    },
+    {
+      "id": 4262,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9480,
+      "avg_reward": 106.9750,
+      "successful_episodes": 474,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1316,
+        "discount_factor": 0.8334,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.4380
+      }
+    },
+    {
+      "id": 4263,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.4154,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1166,
+        "discount_factor": 0.8078,
+        "epsilon_decay": 101.1006,
+        "wrong_way_penalty": -2.4578
+      }
+    },
+    {
+      "id": 4264,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6602,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.9744,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4265,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.4240,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.2163,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.6780
+      }
+    },
+    {
+      "id": 4266,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6686,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0323,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4267,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.6209,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0638,
+        "discount_factor": 0.9708,
+        "epsilon_decay": 102.8593,
+        "wrong_way_penalty": -1.7877
+      }
+    },
+    {
+      "id": 4268,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9540,
+      "avg_reward": 107.5980,
+      "successful_episodes": 477,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0689,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    },
+    {
+      "id": 4269,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.2351,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.2492,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.5177
+      }
+    },
+    {
+      "id": 4270,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8502,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1007,
+        "discount_factor": 0.8092,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.3110
+      }
+    },
+    {
+      "id": 4271,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9480,
+      "avg_reward": 106.9591,
+      "successful_episodes": 474,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0572,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.0007
+      }
+    },
+    {
+      "id": 4272,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9500,
+      "avg_reward": 107.1594,
+      "successful_episodes": 475,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1007,
+        "discount_factor": 0.8092,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.3110
+      }
+    },
+    {
+      "id": 4273,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3829,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1012,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5111
+      }
+    },
+    {
+      "id": 4274,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9460,
+      "avg_reward": 106.7490,
+      "successful_episodes": 473,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0808,
+        "discount_factor": 0.7000,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -3.0007
+      }
+    },
+    {
+      "id": 4275,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8135,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.1516,
+        "discount_factor": 0.9704,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.6687
+      }
+    },
+    {
+      "id": 4276,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9520,
+      "avg_reward": 107.3675,
+      "successful_episodes": 476,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0299,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4277,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.9362,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.2450,
+        "discount_factor": 0.9990,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -2.5177
+      }
+    },
+    {
+      "id": 4278,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8596,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0289,
+        "discount_factor": 0.9407,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.5663
+      }
+    },
+    {
+      "id": 4279,
+      "x": 0,
+      "y": 16,
+      "fitness": 0.9560,
+      "avg_reward": 107.8014,
+      "successful_episodes": 478,
+      "parent1_id": 0,
+      "parent2_id": 0,
+      "genome": {
+        "learning_rate": 0.0638,
+        "discount_factor": 0.9708,
+        "epsilon_decay": 100.0000,
+        "wrong_way_penalty": -1.9230
+      }
+    }
+  ],
+  "mutations": [
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4279,
+      "offspring_id": 4280,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4263,
+      "parent2_id": 4266,
+      "offspring_id": 4281,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4232,
+      "offspring_id": 4282,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9580
+    },
+    {
+      "parent1_id": 4235,
+      "parent2_id": 4266,
+      "offspring_id": 4283,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4237,
+      "parent2_id": 4237,
+      "offspring_id": 4284,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4240,
+      "offspring_id": 4285,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4275,
+      "offspring_id": 4286,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4248,
+      "parent2_id": 4275,
+      "offspring_id": 4287,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4240,
+      "parent2_id": 4259,
+      "offspring_id": 4288,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4275,
+      "offspring_id": 4289,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4235,
+      "parent2_id": 4275,
+      "offspring_id": 4290,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4266,
+      "parent2_id": 4279,
+      "offspring_id": 4291,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4238,
+      "parent2_id": 4237,
+      "offspring_id": 4292,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4268,
+      "offspring_id": 4293,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4238,
+      "parent2_id": 4251,
+      "offspring_id": 4294,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9580
+    },
+    {
+      "parent1_id": 4238,
+      "parent2_id": 4263,
+      "offspring_id": 4295,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4270,
+      "parent2_id": 4240,
+      "offspring_id": 4296,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4275,
+      "offspring_id": 4297,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4259,
+      "offspring_id": 4298,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4236,
+      "parent2_id": 4278,
+      "offspring_id": 4299,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4275,
+      "parent2_id": 4251,
+      "offspring_id": 4300,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9580
+    },
+    {
+      "parent1_id": 4235,
+      "parent2_id": 4259,
+      "offspring_id": 4301,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4249,
+      "parent2_id": 4232,
+      "offspring_id": 4302,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9580
+    },
+    {
+      "parent1_id": 4263,
+      "parent2_id": 4237,
+      "offspring_id": 4303,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4266,
+      "parent2_id": 4267,
+      "offspring_id": 4304,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4267,
+      "parent2_id": 4270,
+      "offspring_id": 4305,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4248,
+      "parent2_id": 4237,
+      "offspring_id": 4306,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4258,
+      "parent2_id": 4266,
+      "offspring_id": 4307,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4256,
+      "parent2_id": 4275,
+      "offspring_id": 4308,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4159,
+      "parent2_id": 4248,
+      "offspring_id": 4309,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4236,
+      "parent2_id": 4258,
+      "offspring_id": 4310,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4266,
+      "offspring_id": 4311,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4277,
+      "parent2_id": 4256,
+      "offspring_id": 4312,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4159,
+      "parent2_id": 4275,
+      "offspring_id": 4313,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4259,
+      "parent2_id": 4263,
+      "offspring_id": 4314,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4248,
+      "parent2_id": 4266,
+      "offspring_id": 4315,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4275,
+      "offspring_id": 4316,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4256,
+      "parent2_id": 4264,
+      "offspring_id": 4317,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4267,
+      "parent2_id": 4256,
+      "offspring_id": 4318,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4275,
+      "parent2_id": 4256,
+      "offspring_id": 4319,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9520
+    },
+    {
+      "parent1_id": 4249,
+      "parent2_id": 4277,
+      "offspring_id": 4320,
+      "parent1_fitness": 0.9540,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4248,
+      "parent2_id": 4277,
+      "offspring_id": 4321,
+      "parent1_fitness": 0.9520,
+      "parent2_fitness": 0.9560
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4267,
+      "offspring_id": 4322,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9540
+    },
+    {
+      "parent1_id": 4232,
+      "parent2_id": 4232,
+      "offspring_id": 4323,
+      "parent1_fitness": 0.9580,
+      "parent2_fitness": 0.9580
+    },
+    {
+      "parent1_id": 4236,
+      "parent2_id": 4253,
+      "offspring_id": 4324,
+      "parent1_fitness": 0.9560,
+      "parent2_fitness": 0.9580
+    }
+  ]
+}

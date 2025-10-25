@@ -1,0 +1,705 @@
+{
+  "total_generations": 100,
+  "generations": [
+    {
+      "generation": 0,
+      "avg_fitness": 0.1434,
+      "max_fitness": 0.7580,
+      "min_fitness": 0.0000,
+      "avg_successful_episodes": 71.7200
+    },
+    {
+      "generation": 1,
+      "avg_fitness": 0.2708,
+      "max_fitness": 0.7540,
+      "min_fitness": 0.0340,
+      "avg_successful_episodes": 135.3800
+    },
+    {
+      "generation": 2,
+      "avg_fitness": 0.5131,
+      "max_fitness": 0.7620,
+      "min_fitness": 0.1400,
+      "avg_successful_episodes": 256.5600
+    },
+    {
+      "generation": 3,
+      "avg_fitness": 0.6777,
+      "max_fitness": 0.7680,
+      "min_fitness": 0.4800,
+      "avg_successful_episodes": 338.8600
+    },
+    {
+      "generation": 4,
+      "avg_fitness": 0.7386,
+      "max_fitness": 0.8380,
+      "min_fitness": 0.5360,
+      "avg_successful_episodes": 369.3000
+    },
+    {
+      "generation": 5,
+      "avg_fitness": 0.7674,
+      "max_fitness": 0.8320,
+      "min_fitness": 0.7140,
+      "avg_successful_episodes": 383.7200
+    },
+    {
+      "generation": 6,
+      "avg_fitness": 0.7839,
+      "max_fitness": 0.8300,
+      "min_fitness": 0.7140,
+      "avg_successful_episodes": 391.9400
+    },
+    {
+      "generation": 7,
+      "avg_fitness": 0.8026,
+      "max_fitness": 0.8580,
+      "min_fitness": 0.7300,
+      "avg_successful_episodes": 401.3200
+    },
+    {
+      "generation": 8,
+      "avg_fitness": 0.8223,
+      "max_fitness": 0.8540,
+      "min_fitness": 0.7940,
+      "avg_successful_episodes": 411.1400
+    },
+    {
+      "generation": 9,
+      "avg_fitness": 0.8298,
+      "max_fitness": 0.8680,
+      "min_fitness": 0.7640,
+      "avg_successful_episodes": 414.9200
+    },
+    {
+      "generation": 10,
+      "avg_fitness": 0.8429,
+      "max_fitness": 0.8820,
+      "min_fitness": 0.7400,
+      "avg_successful_episodes": 421.4600
+    },
+    {
+      "generation": 11,
+      "avg_fitness": 0.8570,
+      "max_fitness": 0.9260,
+      "min_fitness": 0.8140,
+      "avg_successful_episodes": 428.5200
+    },
+    {
+      "generation": 12,
+      "avg_fitness": 0.8725,
+      "max_fitness": 0.9300,
+      "min_fitness": 0.8100,
+      "avg_successful_episodes": 436.2600
+    },
+    {
+      "generation": 13,
+      "avg_fitness": 0.8959,
+      "max_fitness": 0.9460,
+      "min_fitness": 0.8540,
+      "avg_successful_episodes": 447.9600
+    },
+    {
+      "generation": 14,
+      "avg_fitness": 0.9113,
+      "max_fitness": 0.9500,
+      "min_fitness": 0.8600,
+      "avg_successful_episodes": 455.6600
+    },
+    {
+      "generation": 15,
+      "avg_fitness": 0.9264,
+      "max_fitness": 0.9560,
+      "min_fitness": 0.8720,
+      "avg_successful_episodes": 463.2200
+    },
+    {
+      "generation": 16,
+      "avg_fitness": 0.9416,
+      "max_fitness": 0.9560,
+      "min_fitness": 0.9180,
+      "avg_successful_episodes": 470.8200
+    },
+    {
+      "generation": 17,
+      "avg_fitness": 0.9480,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9260,
+      "avg_successful_episodes": 474.0000
+    },
+    {
+      "generation": 18,
+      "avg_fitness": 0.9492,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9280,
+      "avg_successful_episodes": 474.6200
+    },
+    {
+      "generation": 19,
+      "avg_fitness": 0.9507,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 475.3400
+    },
+    {
+      "generation": 20,
+      "avg_fitness": 0.9515,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 475.7400
+    },
+    {
+      "generation": 21,
+      "avg_fitness": 0.9513,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 475.6400
+    },
+    {
+      "generation": 22,
+      "avg_fitness": 0.9527,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.3600
+    },
+    {
+      "generation": 23,
+      "avg_fitness": 0.9523,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.1600
+    },
+    {
+      "generation": 24,
+      "avg_fitness": 0.9518,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 475.9000
+    },
+    {
+      "generation": 25,
+      "avg_fitness": 0.9517,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 475.8400
+    },
+    {
+      "generation": 26,
+      "avg_fitness": 0.9518,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 475.9200
+    },
+    {
+      "generation": 27,
+      "avg_fitness": 0.9518,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9260,
+      "avg_successful_episodes": 475.9000
+    },
+    {
+      "generation": 28,
+      "avg_fitness": 0.9517,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.8400
+    },
+    {
+      "generation": 29,
+      "avg_fitness": 0.9528,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.4000
+    },
+    {
+      "generation": 30,
+      "avg_fitness": 0.9514,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 475.7200
+    },
+    {
+      "generation": 31,
+      "avg_fitness": 0.9528,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 476.4200
+    },
+    {
+      "generation": 32,
+      "avg_fitness": 0.9522,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 476.1200
+    },
+    {
+      "generation": 33,
+      "avg_fitness": 0.9528,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.4200
+    },
+    {
+      "generation": 34,
+      "avg_fitness": 0.9525,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9280,
+      "avg_successful_episodes": 476.2400
+    },
+    {
+      "generation": 35,
+      "avg_fitness": 0.9526,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 476.3200
+    },
+    {
+      "generation": 36,
+      "avg_fitness": 0.9523,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.1400
+    },
+    {
+      "generation": 37,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 476.0200
+    },
+    {
+      "generation": 38,
+      "avg_fitness": 0.9523,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.1400
+    },
+    {
+      "generation": 39,
+      "avg_fitness": 0.9529,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.4600
+    },
+    {
+      "generation": 40,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.2200
+    },
+    {
+      "generation": 41,
+      "avg_fitness": 0.9508,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 475.4200
+    },
+    {
+      "generation": 42,
+      "avg_fitness": 0.9527,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 476.3400
+    },
+    {
+      "generation": 43,
+      "avg_fitness": 0.9529,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.4600
+    },
+    {
+      "generation": 44,
+      "avg_fitness": 0.9530,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 476.5000
+    },
+    {
+      "generation": 45,
+      "avg_fitness": 0.9503,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9040,
+      "avg_successful_episodes": 475.1400
+    },
+    {
+      "generation": 46,
+      "avg_fitness": 0.9528,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 476.3800
+    },
+    {
+      "generation": 47,
+      "avg_fitness": 0.9513,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 475.6600
+    },
+    {
+      "generation": 48,
+      "avg_fitness": 0.9514,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.7000
+    },
+    {
+      "generation": 49,
+      "avg_fitness": 0.9517,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 475.8400
+    },
+    {
+      "generation": 50,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 475.9800
+    },
+    {
+      "generation": 51,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9280,
+      "avg_successful_episodes": 476.1800
+    },
+    {
+      "generation": 52,
+      "avg_fitness": 0.9514,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9280,
+      "avg_successful_episodes": 475.6800
+    },
+    {
+      "generation": 53,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.0200
+    },
+    {
+      "generation": 54,
+      "avg_fitness": 0.9522,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.1000
+    },
+    {
+      "generation": 55,
+      "avg_fitness": 0.9521,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.0400
+    },
+    {
+      "generation": 56,
+      "avg_fitness": 0.9526,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.3000
+    },
+    {
+      "generation": 57,
+      "avg_fitness": 0.9531,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.5600
+    },
+    {
+      "generation": 58,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.2000
+    },
+    {
+      "generation": 59,
+      "avg_fitness": 0.9529,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 476.4400
+    },
+    {
+      "generation": 60,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 476.2200
+    },
+    {
+      "generation": 61,
+      "avg_fitness": 0.9516,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 475.8200
+    },
+    {
+      "generation": 62,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 475.9800
+    },
+    {
+      "generation": 63,
+      "avg_fitness": 0.9510,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 475.5200
+    },
+    {
+      "generation": 64,
+      "avg_fitness": 0.9514,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 475.7000
+    },
+    {
+      "generation": 65,
+      "avg_fitness": 0.9519,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9280,
+      "avg_successful_episodes": 475.9400
+    },
+    {
+      "generation": 66,
+      "avg_fitness": 0.9523,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.1400
+    },
+    {
+      "generation": 67,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.2200
+    },
+    {
+      "generation": 68,
+      "avg_fitness": 0.9510,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 475.4800
+    },
+    {
+      "generation": 69,
+      "avg_fitness": 0.9534,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.6800
+    },
+    {
+      "generation": 70,
+      "avg_fitness": 0.9522,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 476.1200
+    },
+    {
+      "generation": 71,
+      "avg_fitness": 0.9516,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 475.8200
+    },
+    {
+      "generation": 72,
+      "avg_fitness": 0.9524,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.2200
+    },
+    {
+      "generation": 73,
+      "avg_fitness": 0.9528,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9460,
+      "avg_successful_episodes": 476.3800
+    },
+    {
+      "generation": 74,
+      "avg_fitness": 0.9514,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 475.7000
+    },
+    {
+      "generation": 75,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9240,
+      "avg_successful_episodes": 476.0000
+    },
+    {
+      "generation": 76,
+      "avg_fitness": 0.9509,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9380,
+      "avg_successful_episodes": 475.4600
+    },
+    {
+      "generation": 77,
+      "avg_fitness": 0.9533,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.6600
+    },
+    {
+      "generation": 78,
+      "avg_fitness": 0.9518,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 475.9200
+    },
+    {
+      "generation": 79,
+      "avg_fitness": 0.9512,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 475.6000
+    },
+    {
+      "generation": 80,
+      "avg_fitness": 0.9508,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 475.3800
+    },
+    {
+      "generation": 81,
+      "avg_fitness": 0.9516,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 475.7800
+    },
+    {
+      "generation": 82,
+      "avg_fitness": 0.9525,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.2600
+    },
+    {
+      "generation": 83,
+      "avg_fitness": 0.9502,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9200,
+      "avg_successful_episodes": 475.1200
+    },
+    {
+      "generation": 84,
+      "avg_fitness": 0.9526,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.3000
+    },
+    {
+      "generation": 85,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.0000
+    },
+    {
+      "generation": 86,
+      "avg_fitness": 0.9512,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 475.5800
+    },
+    {
+      "generation": 87,
+      "avg_fitness": 0.9522,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9300,
+      "avg_successful_episodes": 476.0800
+    },
+    {
+      "generation": 88,
+      "avg_fitness": 0.9521,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9440,
+      "avg_successful_episodes": 476.0400
+    },
+    {
+      "generation": 89,
+      "avg_fitness": 0.9513,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.6400
+    },
+    {
+      "generation": 90,
+      "avg_fitness": 0.9517,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 475.8400
+    },
+    {
+      "generation": 91,
+      "avg_fitness": 0.9515,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9320,
+      "avg_successful_episodes": 475.7400
+    },
+    {
+      "generation": 92,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 476.0200
+    },
+    {
+      "generation": 93,
+      "avg_fitness": 0.9519,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.9400
+    },
+    {
+      "generation": 94,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9580,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 476.0200
+    },
+    {
+      "generation": 95,
+      "avg_fitness": 0.9515,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.7600
+    },
+    {
+      "generation": 96,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9640,
+      "min_fitness": 0.9360,
+      "avg_successful_episodes": 476.0200
+    },
+    {
+      "generation": 97,
+      "avg_fitness": 0.9522,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9400,
+      "avg_successful_episodes": 476.1200
+    },
+    {
+      "generation": 98,
+      "avg_fitness": 0.9509,
+      "max_fitness": 0.9600,
+      "min_fitness": 0.9420,
+      "avg_successful_episodes": 475.4400
+    },
+    {
+      "generation": 99,
+      "avg_fitness": 0.9520,
+      "max_fitness": 0.9620,
+      "min_fitness": 0.9340,
+      "avg_successful_episodes": 476.0200
+    }
+  ]
+}
