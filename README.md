@@ -5,7 +5,7 @@ A simulation engine designed for visualizing and managing evolving organisms and
 ---
 
 ## 📁 Project Structure
-
+```
 TheDarwinEngine/  
 ├── assets/  
 │   └── Inter-Regular.ttf  
@@ -32,7 +32,7 @@ TheDarwinEngine/
 │   └── main.cpp  
 │  
 └── CMakeLists.txt  
-
+```
 ---
 
 ## ⚙️ Setup & Build Instructions
@@ -70,3 +70,4 @@ This project uses **CMake** for cross-platform builds and **MinGW** for Windows 
 It includes modular headers and source files for handling simulation logic, species management, and GUI rendering.
 
 ---
+
