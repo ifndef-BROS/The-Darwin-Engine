@@ -1,41 +1,45 @@
-# Minimum CMake version required
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.15)
 
-# Project name and version
-project(RLBrainProject VERSION 1.0)
+# 1. Project Definition
+project(TheDarwinEngine VERSION 1.0 LANGUAGES CXX)
 
-# Set C++ standard
+# 2. C++ Standard
+# We enforce C++17, which is required by SFML 3.
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+set(CMAKE_CXX_EXTENSIONS OFF)
 
-# --- Boost Configuration ---
-# Set the minimum required Boost version
-find_package(Boost 1.71.0 REQUIRED)
+# 3. Find SFML 3.0
+# This finds the SFML package and its components.
+# Ensure SFML_DIR is set in your environment or CMake config if not found.
+find_package(SFML 3.0 COMPONENTS Graphics Window System REQUIRED)
 
-if(Boost_FOUND)
-    message(STATUS "Boost version: ${Boost_VERSION_STRING}")
-    include_directories(${Boost_INCLUDE_DIRS})
-else()
-    message(FATAL_ERROR "Boost not found!")
-endif()
-
-# --- Project Structure ---
-# Add the 'include' directory to the include path
+# 4. Project Structure
+# Add the 'include' directory to the include path.
 include_directories(include)
 
-# --- Executable ---
-# Add the executable target and its source files
-add_executable(rl_brain src/main.cpp src/BrainGraph.cpp)
+# Find all .cpp files in the 'src' directory.
+file(GLOB SOURCES "src/*.cpp")
 
-# --- Linking Libraries ---
-# Link the Boost libraries to your executable
-# Boost.Graph is mostly header-only, but other components might be needed.
-# For this example, no specific components are required for basic graph creation.
-# If you use other Boost libraries like program_options or filesystem, you would add them here.
-# Example: find_package(Boost 1.71.0 REQUIRED COMPONENTS program_options)
-# target_link_libraries(rl_brain PRIVATE ${Boost_LIBRARIES})
+# 5. Asset Handling
+# Copies the 'assets' folder (containing the font) to the build directory
+# so the executable can find it at runtime.
+set(ASSET_DIR "${CMAKE_CURRENT_SOURCE_DIR}/assets")
+if(EXISTS "${ASSET_DIR}")
+    file(COPY ${ASSET_DIR} DESTINATION ${CMAKE_BINARY_DIR})
+    message(STATUS "Assets copied to build directory: ${CMAKE_BINARY_DIR}/assets")
+else()
+    message(WARNING "Assets directory not found at ${ASSET_DIR}")
+endif()
 
-# If using Boost imported targets (for Boost 1.70+ and modern CMake)
-# This is the more modern and recommended approach
-# find_package(Boost 1.71.0 REQUIRED)
-# target_link_libraries(rl_brain PRIVATE Boost::boost)
+# 6. Executable Target
+# Create the executable.
+# WIN32: Hides the black console window on Windows.
+# MACOSX_BUNDLE: Creates a proper .app bundle on macOS.
+add_executable(${PROJECT_NAME} WIN32 MACOSX_BUNDLE ${SOURCES})
+
+# 7. Link Libraries
+# Link our executable against the SFML 3 targets.
+target_link_libraries(${PROJECT_NAME} PRIVATE SFML::Graphics SFML::Window SFML::System)
+
+message(STATUS "${PROJECT_NAME} configuration complete.")
